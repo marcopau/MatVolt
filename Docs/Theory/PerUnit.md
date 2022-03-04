@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Per Unit conversion
 
 Coming soon.

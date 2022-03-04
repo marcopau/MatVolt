@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Electric lines model
 
 Coming soon.

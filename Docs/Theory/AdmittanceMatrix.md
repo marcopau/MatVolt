@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Admittance matrix calculation
 
 Coming soon.

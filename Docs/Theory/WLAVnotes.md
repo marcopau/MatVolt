@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Weighted Least Absolute Value method
 
 Coming soon.

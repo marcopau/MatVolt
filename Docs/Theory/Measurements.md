@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Measurement concepts
 
 Coming soon.

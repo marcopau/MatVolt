@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Bad data detection with Chi Squares method
 
 Coming soon.

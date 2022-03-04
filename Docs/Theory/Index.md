@@ -1,5 +1,3 @@
-
-
 # Index
 
 ## [Introduction](/SEintro.md)

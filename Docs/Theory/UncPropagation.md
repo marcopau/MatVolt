@@ -1,3 +1,3 @@
-# Weighted Least Squares method
+# Uncertainty propagation theory
 
 Coming soon.

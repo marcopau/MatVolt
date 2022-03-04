@@ -13,7 +13,7 @@ Real-time monitoring of the operating conditions of an electrical grid is a key 
 Monitoring the operating conditions of the grid implies finding the values of the electrical quantities (voltages, powers, currents) at each point of the grid. 
 
 
-![Monitoring chain in control centers](GridMonitoring.png "Monitoring chain in control centers")
+![Monitoring chain in control centers](/Docs/Fig/GridMonitoring.png "Monitoring chain in control centers")
 
 Advanced monitoring applications rely on ad hoc state estimation algorithms.
 Conventional state estimation approaches require in input:
