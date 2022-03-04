@@ -1,21 +1,21 @@
 # Index
 
-## [Introduction](/SEintro.md)
+## [Introduction](/Docs/Theory/SEintro.md)
 
 ## Grid modelling
-### [Per Unit](/PerUnit.md)
-### [Admittance matrix](/AdmittanceMatrix.md)
-### [Line model](/LineModel.md)
+### [Per Unit](/Docs/Theory/PerUnit.md)
+### [Admittance matrix](/Docs/Theory/AdmittanceMatrix.md)
+### [Line model](/Docs/Theory/LineModel.md)
 
 ## Measurements
-### [Type of measurements](/Measurements.md)
-### [Uncertainty concepts](/Uncertainty.md)
-### [Uncertainty propagation law](/UncPropagation.md)
+### [Type of measurements](/Docs/Theory/Measurements.md)
+### [Uncertainty concepts](/Docs/Theory/Uncertainty.md)
+### [Uncertainty propagation law](/Docs/Theory/UncPropagation.md)
 
 ## Static State Estimation
-### [Least Squares](/LSnotes.md)
-### [Weighted Least Squares](/WLSnotes.md)
-### [Weighted Least Absolute Value](/WLAVnotes.md)
+### [Least Squares](/Docs/Theory/LSnotes.md)
+### [Weighted Least Squares](/Docs/Theory/WLSnotes.md)
+### [Weighted Least Absolute Value](/Docs/Theory/WLAVnotes.md)
 
 
 
