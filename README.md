@@ -1,5 +1,5 @@
 # MatVolt
-MatVolt is an open source library of power system state estimation algorithms implemented in Matlab.
+MatVolt is an open source library of power system power flow and state estimation algorithms implemented in Matlab.
 
 It provides state estimation solvers together with additional functions for implementing, testing and validating power system state estimation algorithms.
 The available material may be useful for:
