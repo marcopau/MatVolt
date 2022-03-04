@@ -5,12 +5,12 @@ At the moment, available algorithms are:
 
 ## Power Flow
 
-- [Least Squares](/Docs/Theory/LSnotes) (LS) method
+- [Least Squares](/Docs/Theory/LSnotes.md) (LS) method
     - [Node voltage]()-based
 
 ## State Estimation
 
-- Conventional [Weighted Least Squares](/Docs/Theory/WLSnotes) (WLS), with virtual measurements
+- Conventional [Weighted Least Squares](/Docs/Theory/WLSnotes.md) (WLS), with virtual measurements
     - [Rectangular node voltage]() WLS 
     - [Rectangular branch current]() WLS 
 
